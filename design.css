@@ -1,0 +1,25 @@
+body{
+    font-family:"georgia";
+    background-image:url("http://41.media.tumblr.com/3b394b23beac872b4ae80b819402dbc5/tumblr_nygnzn8QmN1rgz4g4o1_1280.png");
+    background-size: 600px 600px;
+    background-repeat: repeat;
+    text-align:center;
+    
+}
+
+#searchButton{
+    border-radius:20px;
+    padding:5px;
+}
+#searchBox{
+    border-radius:20px;
+    padding:5px;
+}
+#results{
+    border-radius:20px;
+    background-color:rgba(255, 202, 228, 0.5);
+}
+li{
+    margin-top: 10px;
+    border-bottom:1px white;
+}
